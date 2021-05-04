@@ -1,0 +1,31 @@
+
+.aside .logo a::before{
+	border-top: 5px solid #2196f3;
+	border-left: 5px solid #2196f3;
+
+}
+
+.aside .logo a::after{
+	border-bottom: 5px solid #2196f3;
+	border-right: 5px solid #2196f3;
+
+}
+
+.aside .nav li a:hover,
+.Contact .contact-info-item .icon .fa,
+.aside .nav li a.active{
+color:#2196f3;
+}
+
+.btn,
+
+.about .about-content .skills .skill-item .progress .progress-in,
+.section-title h5::before,
+.aside .nav-toggler span,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-link a {
+	background-color: #2196f3;
+}
